@@ -1,0 +1,2 @@
+[Able to item trade with the enemy v1.0]
+00333C4C E1500000

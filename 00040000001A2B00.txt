@@ -1,0 +1,38 @@
+[Get Exp 100 After Defeat Enemy(START+UP;ON, START+DOWN;OFF) v1.0]
+DD000000 00000048
+004509EC E3A00064
+D0000000 00000000
+DD000000 00000088
+004509EC C3A00064
+D0000000 00000000
+
+[Able to control enemy v1.0]
+002F9584 E1500000
+
+[Infinite Movement v1.0]
+002F9590 E1500000
+
+[Able to item trade with the enemy v1.0]
+00333C4C E1500000
+
+[Well does not wither v1.0]
+0042CE6C EA000000
+0042CC80 EA000000
+
+[Anywhere starting position in preparations (including enemy) v1.0]
+002F960C E1500000
+002F961C EA000007
+002F9650 E3A00001
+00307674 E3100B02
+003076DC E3100B02
+{Enemy's danger area view button is change from A to Y}
+
+[Able to use convoy anyone v1.0]
+0031C5B0 E1A00000
+0031C9D8 E1A00000
+
+[All status up by LV up(Growth Rate must be Large than 1%) v1.0]
+00356B84 E3A00001
+
+[Inf Use Mira Gear v1.0]
+00434C0C 13A00001
