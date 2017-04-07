@@ -1,38 +1,40 @@
-[Get Exp 100 After Defeat Enemy(START+UP;ON, START+DOWN;OFF) v1.0]
+[Get 100 EXP After Battling Enemy]
 DD000000 00000048
 004509EC E3A00064
 D0000000 00000000
 DD000000 00000088
 004509EC C3A00064
-D0000000 00000000
+D2000000 00000000
+{START+UP:ON, START+DOWN:OFF}
 
-[Able to control enemy v1.0]
+[Able to Control Enemy]
 002F9584 E1500000
 
-[Infinite Movement v1.0]
+[Infinite Movement]
 002F9590 E1500000
 
-[Able to item trade with the enemy v1.0]
+[Able to Trade Items with Enemy]
 00333C4C E1500000
 
-[Well does not wither v1.0]
+[Well does not wither]
 0042CE6C EA000000
 0042CC80 EA000000
 
-[Anywhere starting position in preparations (including enemy) v1.0]
+[Change Starting Positions of Anyone in Preparations Menu (including enemy)]
 002F960C E1500000
 002F961C EA000007
 002F9650 E3A00001
 00307674 E3100B02
 003076DC E3100B02
+D2000000 00000000
 {Enemy's danger area view button is change from A to Y}
 
-[Able to use convoy anyone v1.0]
+[Able to use Convoy on Anyone]
 0031C5B0 E1A00000
 0031C9D8 E1A00000
 
-[All status up by LV up(Growth Rate must be Large than 1%) v1.0]
+[All stats up by level up (Growth rate must be larger than 1%)]
 00356B84 E3A00001
 
-[Inf Use Mira Gear v1.0]
+[Infinite Mila Gear Uses]
 00434C0C 13A00001

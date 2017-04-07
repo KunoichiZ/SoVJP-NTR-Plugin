@@ -1,2 +1,2 @@
-[Infinite Movement v1.0]
+[Infinite Movement]
 002F9590 E1500000

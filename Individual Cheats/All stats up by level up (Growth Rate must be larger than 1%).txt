@@ -1,2 +1,2 @@
-[All status up by LV up (Growth Rate must be larger than 1%) v1.0]
+[All stats up by level up (Growth rate must be larger than 1%)]
 00356B84 E3A00001

@@ -1,3 +1,3 @@
-[Well does not wither v1.0]
+[Well does not wither]
 0042CE6C EA000000
 0042CC80 EA000000
