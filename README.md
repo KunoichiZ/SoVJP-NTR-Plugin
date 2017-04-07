@@ -5,7 +5,7 @@ Cheats by [ymyn](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post
 Plugin made by me using [Nanquita's NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 
 ## Cheats in plugin
-* Get 100 EXP After Enemy Defeat (Start+Up ON, Start+Down: Off) v1.0 (I personally couldn't get it to work)
+* Get 100 EXP After Enemy Defeat (Start+Up ON, Start+Down: Off) v1.0 [I personally couldn't get it to work]
 * Able to Control Enemy v1.0 [works]
 * Infinite Movement v1.0 [works]
 * Able to Trade Items with Enemy v1.0 [works]
