@@ -3,7 +3,7 @@
 ## Credits
 * Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932) and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416) on GBAtemp.
 * Get 100 EXP After Battling Enemy and Change Starting Positions of Anyone (including enemies) fix in v1.1 by [dsrules](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7225891) on GBAtemp.
-* Plugin made by me using [Nanquita's NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
+* Plugin made by me using [Nanquitas' NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 
 ## Cheats in plugin
 * Get 100 EXP After Battling Enemy (Start+Up ON, Start+Down: Off) v1.1
