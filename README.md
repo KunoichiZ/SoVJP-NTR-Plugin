@@ -25,3 +25,5 @@
 * Run through monsters in 3D dungeons v1.0
 * Can quit from battle the first turn v1.0
 * All classes selectable in class change v1.0
+
+All classes cheat only works if you are booting the game in Japanese. Do not switch to the Chinese language as it will not work. If you switch to the Chinese language and go back to the Japanese language, it will still not work. Thanks to [dsrules](https://gbatemp.net/threads/fire-emblem-echoes-shadows-of-valentia-jp-ntr-plugin-cheats.466662/page-2#post-7242097) for pointing this out.
