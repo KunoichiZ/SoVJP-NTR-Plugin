@@ -1,7 +1,7 @@
 # Fire Emblem Echoes: Shadows of Valentia JPN NTR Plugin
 
 ## Credits
-* Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932) and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416) on GBAtemp.
+* Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932), [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416), and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-120#post-7240898) on GBAtemp.
 * Get 100 EXP After Battling Enemy and Change Starting Positions of Anyone (including enemies) fix in v1.1 by [dsrules](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7225891) on GBAtemp.
 * Plugin made by me using [Nanquitas' NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 
@@ -20,3 +20,8 @@
 * Gold Coin x996 v1.0
 * Silver Coin x9984 v1.0
 * Temp save does not disappear (Please enable code before load temp save) v1.0
+* Infinite item usage v1.0
+* Instant Message v1.0
+* Run through monsters in 3D dungeons v1.0
+* Can quit from battle the first turn v1.0
+* All classes selectable in class change v1.0
