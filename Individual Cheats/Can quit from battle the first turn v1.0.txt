@@ -1,0 +1,2 @@
+[Can quit from battle the first turn]
+0044D968 E3500001
