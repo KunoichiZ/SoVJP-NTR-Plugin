@@ -3,6 +3,7 @@
 ## Credits
 * Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932), [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416), and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-120#post-7240898) on GBAtemp.
 * Get 100 EXP After Battling Enemy and Change Starting Positions of Anyone (including enemies) fix in v1.1 by [dsrules](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7225891) on GBAtemp.
+* All classes selectable in class change fix by [dsrules](https://gbatemp.net/threads/fire-emblem-echoes-shadows-of-valentia-jp-ntr-plugin-cheats.466662/page-3#post-7242629).
 * Plugin made by me using [Nanquitas' NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 
 ## Cheats in plugin
@@ -24,6 +25,4 @@
 * Instant Message v1.0
 * Run through monsters in 3D dungeons v1.0
 * Can quit from battle the first turn v1.0
-* All classes selectable in class change v1.0
-
-All classes cheat only works if you are booting the game in Japanese. Do not switch to the Chinese language as it will not work. If you switch to the Chinese language and go back to the Japanese language, it will still not work. Thanks to [dsrules](https://gbatemp.net/threads/fire-emblem-echoes-shadows-of-valentia-jp-ntr-plugin-cheats.466662/page-2#post-7242097) for pointing this out.
+* All classes selectable in class change v1.1
