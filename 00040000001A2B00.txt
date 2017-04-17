@@ -1,3 +1,21 @@
+[++Difficulty Change++]
+
+[Normal]
+B05C5CEC 00000000
+2000003D 00000000
+D2000000 00000000
+{The strength of the enemies already on the map does not change.
+Only the new appear enemies will change strength.}
+
+[Hard]
+B05C5CEC 00000000
+2000003D 00000001 
+D2000000 00000000
+{The strength of the enemies already on the map does not change.
+Only the new appear enemies will change strength.}
+
+[--]
+
 [Get 100 EXP After Battling Enemy]
 DD000000 00000048
 004509EC E3A00064
@@ -121,3 +139,4 @@ D2000000 00000000
 001D108C E3A00000
 001FBB48 E3A00001
 001FBB58 EA000036
+
