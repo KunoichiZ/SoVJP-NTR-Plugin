@@ -1,5 +1,9 @@
 # Fire Emblem Echoes: Shadows of Valentia JPN NTR Plugin
 
+## Instructions
+* Back up your save files with JKSM first before attempting to use the cheats.
+* Press **Select** in-game to open the cheat menu.
+
 ## Credits
 * Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932), [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416), and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-120#post-7240898) on GBAtemp.
 * Get 100 EXP After Battling Enemy and Change Starting Positions of Anyone (including enemies) fix in v1.1 by [dsrules](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7225891) on GBAtemp.
