@@ -21,7 +21,7 @@
 * All status up by level up (Growth rate must be larger than 1%) v1.0
 * Infinite Mira Gear uses v1.0
 * Infinite HP v1.0
-* Move Distance Max (START+Y) v1.0 (with Move Distance Max fix)
+* Move Distance Max fix v1.0
 * Gold Coin x996 v1.0
 * Silver Coin x9984 v1.0
 * Temp save does not disappear (Please enable code before load temp save) v1.0
