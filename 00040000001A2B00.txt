@@ -119,6 +119,7 @@ D2000000 00000000
 00527B60 E5C640DF
 00527B64 E8BD8070
 004523B8 EA0355E0
+{Does not need a button combo to activate and is permanent if you save}
 
 [Gold Coin x996]
 00434DB0 E51F0130
