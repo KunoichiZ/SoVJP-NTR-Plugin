@@ -3,6 +3,7 @@
 ## Instructions
 * Back up your save files with JKSM first before attempting to use the cheats.
 * Press **Select** in-game to open the cheat menu.
+* Press Y on some cheats in the cheat menu to view how they work.
 
 ## Credits
 * Cheats by ymyn. Cheats located [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7224932), [here](https://gbatemp.net/threads/gateway-cheats.402900/page-119#post-7228416), [here](https://gbatemp.net/threads/gateway-cheats.402900/page-120#post-7240898), and [here](https://gbatemp.net/threads/gateway-cheats.402900/page-121#post-7258441) on GBAtemp.
