@@ -450,7 +450,7 @@ Chapter 6 (Y or START:Alm & Celica)}
 00527C10 E8BD8002
 00527C14 63626203
 003A30C4 EB0612CD
-{Need to enter "Support Log" menu once}
+{Need to enter Support Log menu once}
 
 [Can Get both Dean and Sonya]
 DD000000 00000108
